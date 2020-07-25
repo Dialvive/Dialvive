@@ -5,8 +5,6 @@
 <hr>
 
 - 🔭 I’m currently working on a fullstack project making a [Mexican Sign Language multi-environment dictionary](https://github.com/Equipo-LSM).
-- 🌱 I’m currently learning Android and Agile development, Blockchain (Ethereum), Linux OSS development practices, and Mexican Sign Language.
-<!---👯 I’m looking to collaborate on ... --->
 - 🤔 I’m looking for colaborators with iOS development knowledge for the [Equipo-LSM](https://github.com/Equipo-LSM) project.
 
 <hr>
