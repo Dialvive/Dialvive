@@ -15,9 +15,10 @@
 </p>
 
 
-
+  - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando@ciencias.unam.mx
   - :mag: I’m looking for colaborators with iOS development knowledge for the [Equipo-LSM](https://github.com/Equipo-LSM) project.
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
+ 
 
   <hr>
 
