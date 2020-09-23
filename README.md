@@ -7,11 +7,13 @@
   
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
-| - [Mexican Sign Language multi-environment dictionary](https://github.com/Equipo-LSM). | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
-|   | - :infinity:[Android Development](https://es.coursera.org/specializations/programacion-android) |
+| - Mexican Sign Language multi-environment web dictionary. | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
 |   | - :infinity:[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
-|   | - :infinity:[Blockchain](https://www.coursera.org/specializations/blockchain)
-|   | - :classical_building: Superior Algebra II
+|   | - :classical_building: Lineal Algebra
+|   | - :classical_building: Probability I
+|   | - :classical_building: Computational Logic
+|   | - :classical_building: Programming Languages Theory
+|   | - :classical_building: Technologies for Web Development
 </p>
 
 
