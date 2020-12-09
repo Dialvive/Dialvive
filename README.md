@@ -11,7 +11,6 @@
 |   | - :infinity:[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
 |   | - :classical_building: Lineal Algebra
 |   | - :classical_building: Probability I
-|   | - :classical_building: Computational Logic
 |   | - :classical_building: Programming Languages Theory
 |   | - :classical_building: Technologies for Web Development
 </p>
