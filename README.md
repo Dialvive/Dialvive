@@ -8,7 +8,6 @@
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
 | - Mexican Sign Language multi-environment dictionary. | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
-|   | - :infinity:[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
 |   | - :classical_building: Lineal Algebra
 |   | - :classical_building: Probability I
 |   | - :classical_building: Programming Languages Theory
