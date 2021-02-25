@@ -8,14 +8,14 @@
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
 | - Mexican Sign Language multi-environment dictionary. | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
-|   | - :classical_building: Lineal Algebra
-|   | - :classical_building: Probability I
-|   | - :classical_building: Programming Languages Theory
-|   | - :classical_building: Technologies for Web Development
+|   | - :classical_building: Artificial Intelligence
+|   | - :classical_building: User Interface Design
+|   | - :classical_building: Mobile Apps Design & Programming
+|   | - :classical_building: Algorithm Analysis
 </p>
 
 
-  - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando@ciencias.unam.mx
+  - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
   - :mag: I’m looking for colaborators with iOS development knowledge for a Sign Language related project.
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
  
