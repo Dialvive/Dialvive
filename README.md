@@ -18,17 +18,14 @@
 </div>
 
 <br>
-<br>
 
   - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
 
 <br>
-<br>
 
 <hr>
 
-<br>
 <br>
 
 <div align="center">
