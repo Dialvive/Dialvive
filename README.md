@@ -7,13 +7,13 @@
 </div>
   
 <div align="center">
-| :floppy_disk: Currently Working On | :books: Currently Learning         |
-| ---------------------------------- | ---------------------------------- |
-| - :globe_with_meridians: [HandsApp](https://handsapp.org)| - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
-|   | - :classical_building: Artificial Intelligence
-|   | - :classical_building: User Interface Design
-|   | - :classical_building: Mobile Apps Design & Programming
-|   | - :classical_building: Algorithm Analysis
+  | :floppy_disk: Currently Working On | :books: Currently Learning         |
+  | ---------------------------------- | ---------------------------------- |
+  | - :globe_with_meridians: [HandsApp](https://handsapp.org)| - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
+  |   | - :classical_building: Artificial Intelligence |
+  |   | - :classical_building: User Interface Design |
+  |   | - :classical_building: Mobile Apps Design & Programming |
+  |   | - :classical_building: Algorithm Analysis |
 </div>
 
   - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
