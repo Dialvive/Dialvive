@@ -6,8 +6,7 @@
   <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
 </div>
   
-<div align="center">
-  
+<div align="center" styles="text-align: left">
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
 | - :globe_with_meridians: [HandsApp](https://handsapp.org)| - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
