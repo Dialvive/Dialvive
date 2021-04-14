@@ -27,7 +27,7 @@
 
   <div align="center">
     <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
-    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/data.gif?raw=true" style="width: 25%;" alt="Nyan!" />
+    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/data.gif?raw=true" style="width: 25%;" alt="This is Commander Data" />
   </div>
 
 
