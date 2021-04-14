@@ -1,13 +1,17 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/Dialvive/Dialvive/blob/master/images/HolaMundo.png?raw=true" style="max-width: 100%;" alt="Hello World!" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
+</div>
 
   
 <p align="center">
   
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
-| - Mexican Sign Language multi-environment dictionary. | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
+| - :globe_with_meridians: [HandsApp](https://handsapp.org)| - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
 |   | - :classical_building: Artificial Intelligence
 |   | - :classical_building: User Interface Design
 |   | - :classical_building: Mobile Apps Design & Programming
@@ -16,7 +20,6 @@
 
 
   - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
-  - :mag: I’m looking for colaborators with iOS development knowledge for a Sign Language related project.
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
  
 
@@ -24,7 +27,7 @@
 
   <div align="center">
     <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
-    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/nyan.gif?raw=true" style="width: 25%;" alt="Nyan!" />
+    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/data.gif?raw=true" style="width: 25%;" alt="Nyan!" />
   </div>
 
 
