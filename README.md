@@ -15,11 +15,6 @@
 |   | - :classical_building: Algorithm Analysis
 </div>
 
-<div align="center">
-  <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
-</div>
-
-
   - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
 
@@ -27,5 +22,9 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
 </div>
 
