@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/Dialvive/Dialvive/blob/master/images/HolaMundo.png?raw=true" style="max-width: 100%;" alt="Hello World!" />
 </div>
-<div align="center">
-  <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
-</div>
+  <div align="center">
+    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/data.gif?raw=true" style="width: 25%;" alt="This is Commander Data" />
+  </div>
 <div align="center">
   
 | :floppy_disk: Currently Working On | :books: Currently Learning         |
@@ -25,6 +25,5 @@
   </div>
   <br>
   <div align="center">
-    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/data.gif?raw=true" style="width: 25%;" alt="This is Commander Data" />
+    <img src="https://github.com/Dialvive/Dialvive/blob/master/images/enterprise.gif?raw=true" style="max-width: 100%;" alt="This is the Starship Enterprise" />
   </div>
-
