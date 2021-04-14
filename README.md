@@ -26,8 +26,6 @@
 
 <hr>
 
-<br>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
 </div>
