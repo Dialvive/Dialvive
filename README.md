@@ -21,13 +21,11 @@
 
 
   - :mailbox: Let's get in contact! E-mail me at diego.a.villalpando(at)ciencias.unam.mx
-<br>
   - :information_source: You can find more info about me at my [Linkedin](https://www.linkedin.com/in/diegovillalpando/)
-<br>
+
 <hr>
-<br>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
-  </div>
-  <br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dialvive/count.svg" alt="hit counter" align="center">
+</div>
 
