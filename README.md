@@ -8,10 +8,10 @@
 
 <div align="center">
   
-| :floppy_disk: Currently Working On | :books: Currently Learning         |
+| :floppy_disk: Currently Working With | :books: Currently Learning         |
 | ---------------------------------- | ---------------------------------- |
-| - :globe_with_meridians: [HandsApp](https://handsapp.org)| - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
-|   | - :classical_building: Artificial Intelligence
+| - :bank: [J.P. Morgan](https://www.jpmorgan.com.mx) | - :infinity:[Agile Development](https://www.coursera.org/specializations/agile-development)  |
+| - :globe_with_meridians: [HandsApp](https://handsapp.org) | - :classical_building: Artificial Intelligence
 |   | - :classical_building: User Interface Design
 |   | - :classical_building: Mobile Apps Design & Programming
 |   | - :classical_building: Algorithm Analysis
