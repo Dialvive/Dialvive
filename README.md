@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/Dialvive/Dialvive/blob/master/images/HolaMundo.png?raw=true" style="max-width: 100%;" alt="Hello World!" />
-  <br>
-  <img src="https://github.com/Dialvive/Dialvive/blob/master/images/Luc.gif?raw=true" style="width: 25%;" alt="This is Jean Luc Picard" />
 </div>
 
 <br>
